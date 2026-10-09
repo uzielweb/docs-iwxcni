@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-aasew1.rtb-system.online/sitemap.xml
